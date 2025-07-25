@@ -1,0 +1,21 @@
+# Ignore Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Jupyter notebooks (if used)
+.ipynb_checkpoints/
+
+# VSCode settings (optional)
+.vscode/
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
